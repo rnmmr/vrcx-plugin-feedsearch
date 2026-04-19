@@ -31,5 +31,6 @@ Combined conditions
 1. Copy custom.js to your %AppData%\VRCX\ directory
 2. Restart VRCX
 3. Find the "Feed Formula Search" card in the "Extension JS" category
-## Note
-Use = instead of : for field matching. This plugin intercepts search requests and applies formula filtering on top of VRCX's native search functionality.
+
+## Creidts
+[VRCX-theme-plugin](https://github.com/xiaoBingge114514/VRCX-theme-plugin)
